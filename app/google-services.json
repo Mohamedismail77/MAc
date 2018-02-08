@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609112844731",
+    "firebase_url": "https://myapplication9-4e6a3.firebaseio.com",
+    "project_id": "myapplication9-4e6a3",
+    "storage_bucket": "myapplication9-4e6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609112844731:android:a89e7c137af96908",
+        "android_client_info": {
+          "package_name": "com.io.nabtrack.sourcya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609112844731-2qrrb1ata9cd6krs44llpagubdim22ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.io.nabtrack.sourcya.myapplication",
+            "certificate_hash": "02ce6155181a46300cec0aed28922b7b742d6593"
+          }
+        },
+        {
+          "client_id": "609112844731-d4vlcra3dnooibpgg2og4jsjnv0agp92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5VZZiTZfgyB89ZWnKoQ4SXYA0McuNNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609112844731-d4vlcra3dnooibpgg2og4jsjnv0agp92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
